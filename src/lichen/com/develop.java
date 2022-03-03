@@ -11,5 +11,6 @@ public class develop {
         public static void main (String[] args){
                 System.out.println(222);
                 System.out.println("提交本机代码");
+               System.out.println("获取最新代码");
         }
 }
